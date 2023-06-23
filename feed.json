@@ -1,0 +1,270 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Nghia Le Micro Blog",
+	"icon": "https://micro.blog/nghialele/avatar.jpg",
+	"home_page_url": "https://micro.nghialele.com/",
+	"feed_url": "https://micro.nghialele.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://nghialele.micro.blog/2023/06/24/its-am-and.html",
+				
+				"content_html": "<p>It’s 2.25 AM and I have just managed to have my Mastodon instance up and running. Now head to some sleep.</p>\n<p>Tomorrow I will be back with the Hometown hack for my Mastodon instance. And probaly a name/domain name for it too.</p>\n",
+				"content_text": "It’s 2.25 AM and I have just managed to have my Mastodon instance up and running. Now head to some sleep.\n\nTomorrow I will be back with the Hometown hack for my Mastodon instance. And probaly a name/domain name for it too. \n",
+				"date_published": "2023-06-24T02:26:51+07:00",
+				"url": "https://micro.nghialele.com/2023/06/24/its-am-and.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/23/cant-sleep-or.html",
+				
+				"content_html": "<p>Can’t sleep … or I don’t want to sleep? 🙄🥱</p>\n",
+				"content_text": "Can’t sleep … or I don’t want to sleep? 🙄🥱\n",
+				"date_published": "2023-06-23T01:56:28+07:00",
+				"url": "https://micro.nghialele.com/2023/06/23/cant-sleep-or.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/22/interesting-in-a.html",
+				
+				"content_html": "<p>Interesting in a Funkwhale pod of my own, where I can share the taste of music to my fellas 🎶🎶🎵🎵</p>\n",
+				"content_text": "Interesting in a Funkwhale pod of my own, where I can share the taste of music to my fellas 🎶🎶🎵🎵\n",
+				"date_published": "2023-06-22T09:52:46+07:00",
+				"url": "https://micro.nghialele.com/2023/06/22/interesting-in-a.html",
+				"tags": ["dev"]
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/21/mixed-feelings-today.html",
+				
+				"content_html": "<p>Mixed feelings today. 🤯</p>\n",
+				"content_text": "Mixed feelings today. 🤯\n",
+				"date_published": "2023-06-21T22:46:32+07:00",
+				"url": "https://micro.nghialele.com/2023/06/21/mixed-feelings-today.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/21/i-skip-running.html",
+				
+				"content_html": "<p>I skip running for 2 days and that’s feel terrible. 😂 gotta go out today 🏃🏽‍♂️</p>\n",
+				"content_text": "I skip running for 2 days and that’s feel terrible. 😂 gotta go out today 🏃🏽‍♂️\n",
+				"date_published": "2023-06-21T11:55:20+07:00",
+				"url": "https://micro.nghialele.com/2023/06/21/i-skip-running.html",
+				"tags": ["self"]
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/19/gotta-teach-them.html",
+				
+				"content_html": "<p>Gotta teach them young 🏎️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Gotta teach them young 🏎️\n\n<img src=\"https://nghialele.com/uploads/2023/2c3b468df5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-19T18:32:28+07:00",
+				"url": "https://micro.nghialele.com/2023/06/19/gotta-teach-them.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/19/the-process-of.html",
+				
+				"content_html": "<p>The process of learning, being more self-awareness, improvements &amp; being more confident is sometimes painful.</p>\n<p>Especially when I have ADD and can’t even explain what is this to the closest peeps.</p>\n<p>🤯</p>\n",
+				"content_text": "The process of learning, being more self-awareness, improvements & being more confident is sometimes painful.\n\nEspecially when I have ADD and can’t even explain what is this to the closest peeps. \n\n🤯\n",
+				"date_published": "2023-06-19T10:04:47+07:00",
+				"url": "https://micro.nghialele.com/2023/06/19/the-process-of.html",
+				"tags": ["self"]
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/18/first-contribution-ever.html",
+				
+				"content_html": "<p>First contribution ever made, just a translation 😁</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "First contribution ever made, just a translation 😁\n\n<img src=\"https://nghialele.com/uploads/2023/500a938ded.jpg\" width=\"398\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-18T23:25:26+07:00",
+				"url": "https://micro.nghialele.com/2023/06/18/first-contribution-ever.html",
+				"tags": ["dev"]
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/18/the-more-i.html",
+				
+				"content_html": "<p>The more I dive into self-hosted, the more it gets interesting. 👽</p>\n",
+				"content_text": "The more I dive into self-hosted, the more it gets interesting. 👽\n",
+				"date_published": "2023-06-18T20:41:39+07:00",
+				"url": "https://micro.nghialele.com/2023/06/18/the-more-i.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/17/im-sharing-here.html",
+				
+				"content_html": "<p>I’m sharing here my latest DJ mix. Hope I can find someone to share the interests.</p>\n<p><a href=\"https://on.soundcloud.com/G2is7ioDEQH1gcHr8\">Listen on Soundcloud</a></p>\n",
+				"content_text": "I’m sharing here my latest DJ mix. Hope I can find someone to share the interests.\n\n[Listen on Soundcloud](https://on.soundcloud.com/G2is7ioDEQH1gcHr8)\n",
+				"date_published": "2023-06-17T13:29:41+07:00",
+				"url": "https://micro.nghialele.com/2023/06/17/im-sharing-here.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/17/im-finding-a.html",
+				
+				"content_html": "<p>I’m finding a way to delete everything in my Google Photos account 🤔 Why don’t Google just invent a “Delete All” button? 😂 Simplicity is just what people needs.</p>\n<p>Think I should backup and delete the whole Google account is better?</p>\n",
+				"content_text": "I’m finding a way to delete everything in my Google Photos account 🤔 Why don’t Google just invent a “Delete All” button? 😂 Simplicity is just what people needs. \n\nThink I should backup and delete the whole Google account is better? \n",
+				"date_published": "2023-06-17T08:35:05+07:00",
+				"url": "https://micro.nghialele.com/2023/06/17/im-finding-a.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/16/trying-umbrelos-for.html",
+				
+				"content_html": "<p>Trying UmbrelOS for self-hosted server. The more I dig information, the more interesting it is. #umbrel #umbrelos</p>\n",
+				"content_text": "Trying UmbrelOS for self-hosted server. The more I dig information, the more interesting it is. #umbrel #umbrelos\n",
+				"date_published": "2023-06-16T22:00:21+07:00",
+				"url": "https://micro.nghialele.com/2023/06/16/trying-umbrelos-for.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/16/i-wish-i.html",
+				
+				"content_html": "<p>I wish I could show this book to my parents, partner and some friends.</p>\n<p>Currently reading: <a href=\"https://micro.blog/books/9780399178740\">ADHD 2.0</a> by Edward M. Hallowell, M.D. 📚</p>\n",
+				"content_text": "I wish I could show this book to my parents, partner and some friends. \r\n\r\nCurrently reading: [ADHD 2.0](https://micro.blog/books/9780399178740) by Edward M. Hallowell, M.D. 📚\n",
+				"date_published": "2023-06-16T21:17:02+07:00",
+				"url": "https://micro.nghialele.com/2023/06/16/i-wish-i.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/16/second-day-lets.html",
+				
+				"content_html": "<p>Second day, let’s break this and build that 🧘‍♂️\nI quit smoke 3 years ago, this “smoke” thing is a #420 related 😅</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Second day, let’s break this and build that 🧘‍♂️\nI quit smoke 3 years ago, this “smoke” thing is a #420 related 😅\n\n<img src=\"https://micro.nghialele.com/uploads/2023/166c34a1ce.jpg\" width=\"276\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-16T20:34:33+07:00",
+				"url": "https://micro.nghialele.com/2023/06/16/second-day-lets.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/16/reading-a-book.html",
+				
+				"content_html": "<p>Reading a book about ADHD and find myself in there. The feeling of “nobody can understand” now explainable. 🤯</p>\n",
+				"content_text": "Reading a book about ADHD and find myself in there. The feeling of “nobody can understand” now explainable. 🤯 \n",
+				"date_published": "2023-06-16T11:05:25+07:00",
+				"url": "https://micro.nghialele.com/2023/06/16/reading-a-book.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/16/just-realize-that.html",
+				
+				"content_html": "<p>Just realize that my profile pic was transparent background turned to black 😂</p>\n",
+				"content_text": "Just realize that my profile pic was transparent background turned to black 😂\n",
+				"date_published": "2023-06-16T07:26:57+07:00",
+				"url": "https://micro.nghialele.com/2023/06/16/just-realize-that.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/15/west-lake-hanoi.html",
+				
+				"content_html": "<p>West Lake - Hanoi, taken during my running course.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "West Lake - Hanoi, taken during my running course. \n\n<img src=\"https://micro.nghialele.com/uploads/2023/96eccd2ebe.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-15T20:28:42+07:00",
+				"url": "https://micro.nghialele.com/2023/06/15/west-lake-hanoi.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/15/iphoneography.html",
+				
+				"content_html": "<p>#iphoneography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#iphoneography\n\n<img src=\"https://micro.nghialele.com/uploads/2023/c075e34f3d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-15T16:44:03+07:00",
+				"url": "https://micro.nghialele.com/2023/06/15/iphoneography.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/14/just-deleted-instagram.html",
+				
+				"content_html": "<p>Just deleted 2 Instagram accounts and 1 Facebook accounts after years. Drama-free &amp; distraction-free life coming 👏</p>\n",
+				"content_text": "Just deleted 2 Instagram accounts and 1 Facebook accounts after years. Drama-free & distraction-free life coming 👏\n",
+				"date_published": "2023-06-14T14:51:06+07:00",
+				"url": "https://micro.nghialele.com/2023/06/14/just-deleted-instagram.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/14/the-street-of.html",
+				
+				"content_html": "<p>The street of Hanoi. Photo taken in the most beautiful street in this city. #hanoi #iphoneography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The street of Hanoi. Photo taken in the most beautiful street in this city. #hanoi #iphoneography\n\n<img src=\"https://micro.nghialele.com/uploads/2023/8299e10e22.jpg\" width=\"450\" height=\"600\" alt=\"Street photo with motocycles, urban life of Hanoi.\">\n",
+				"date_published": "2023-06-14T12:38:40+07:00",
+				"url": "https://micro.nghialele.com/2023/06/14/the-street-of.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/14/did-a-morning.html",
+				
+				"content_html": "<p>Did a morning run today, quite interesting when I wake up before the whole cities. 🏃🏽‍♂️</p>\n",
+				"content_text": "Did a morning run today, quite interesting when I wake up before the whole cities. 🏃🏽‍♂️\n",
+				"date_published": "2023-06-14T12:31:28+07:00",
+				"url": "https://micro.nghialele.com/2023/06/14/did-a-morning.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/11/finish-a-km.html",
+				
+				"content_html": "<p>Finish a 3km run with my burned leg. 🏃🏽‍♂️ I just don’t want to lose my training streak, I skipped yesterday so 😂</p>\n",
+				"content_text": "Finish a 3km run with my burned leg. 🏃🏽‍♂️ I just don’t want to lose my training streak, I skipped yesterday so 😂\n",
+				"date_published": "2023-06-11T23:36:35+07:00",
+				"url": "https://micro.nghialele.com/2023/06/11/finish-a-km.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/10/101748.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://micro.nghialele.com/uploads/2023/8e98d0af52.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-10T10:17:48+07:00",
+				"url": "https://micro.nghialele.com/2023/06/10/101748.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/09/the-view-from.html",
+				
+				"content_html": "<p>The view from my residence building rooftop. The home of 3 local clubs.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The view from my residence building rooftop. The home of 3 local clubs.\n\n<img src=\"https://micro.nghialele.com/uploads/2023/212634fe06.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-09T09:03:57+07:00",
+				"url": "https://micro.nghialele.com/2023/06/09/the-view-from.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/08/accidentally-got-my.html",
+				
+				"content_html": "<p>Accidentally got my leg burned a small bit. But I don’t want to skip my running so lace up 🏃🏽‍♂️</p>\n",
+				"content_text": "Accidentally got my leg burned a small bit. But I don’t want to skip my running so lace up 🏃🏽‍♂️\n",
+				"date_published": "2023-06-08T18:56:17+07:00",
+				"url": "https://micro.nghialele.com/2023/06/08/accidentally-got-my.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/08/its-a-rd.html",
+				
+				"content_html": "<p>It’s a 3rd world country problem, electricity cutdown for savings lol 😂 during Summer 🥵🥵🥵</p>\n",
+				"content_text": "It’s a 3rd world country problem, electricity cutdown for savings lol 😂 during Summer 🥵🥵🥵\n",
+				"date_published": "2023-06-08T11:05:30+07:00",
+				"url": "https://micro.nghialele.com/2023/06/08/its-a-rd.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/07/a-little-achievement.html",
+				
+				"content_html": "<p>A little achievement today.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A little achievement today. \n\n<img src=\"https://micro.nghialele.com/uploads/2023/bec0827316.jpg\" width=\"276\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-07T21:53:32+07:00",
+				"url": "https://micro.nghialele.com/2023/06/07/a-little-achievement.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/06/this-was-my.html",
+				
+				"content_html": "<p>This was my effort today on June 5K challenge. #running #solorunner</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This was my effort today on June 5K challenge. #running #solorunner \n\n<img src=\"https://micro.nghialele.com/uploads/2023/8b6d4636af.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-06T23:15:07+07:00",
+				"url": "https://micro.nghialele.com/2023/06/06/this-was-my.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/06/i-havent-watch.html",
+				
+				"content_html": "<p>I haven’t watch a single episode of Stranger Things. I know Kate Bush and Running Up That Hill before but I just bumped into the orchestra they did after the song goes viral on ST4 and it’s just something bring me tears 👏🥹</p>\n",
+				"content_text": "I haven’t watch a single episode of Stranger Things. I know Kate Bush and Running Up That Hill before but I just bumped into the orchestra they did after the song goes viral on ST4 and it’s just something bring me tears 👏🥹\n",
+				"date_published": "2023-06-06T09:42:06+07:00",
+				"url": "https://micro.nghialele.com/2023/06/06/i-havent-watch.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/04/congratulations-to-man.html",
+				
+				"content_html": "<p>Congratulations to Man City, what a great performance. We lost in the very first minute xD</p>\n",
+				"content_text": "Congratulations to Man City, what a great performance. We lost in the very first minute xD\r\n\r\n",
+				"date_published": "2023-06-04T01:11:28+07:00",
+				"url": "https://micro.nghialele.com/2023/06/04/congratulations-to-man.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/02/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading the third time: <a href=\"https://micro.blog/books/9780062457738\">The Subtle Art of Not Giving a F*ck</a> by Mark Manson 📚</p>\n",
+				"content_text": "Currently reading the third time: [The Subtle Art of Not Giving a F*ck](https://micro.blog/books/9780062457738) by Mark Manson 📚\n",
+				"date_published": "2023-06-02T22:34:31+07:00",
+				"url": "https://micro.nghialele.com/2023/06/02/currently-reading-the.html"
+			},
+			{
+				"id": "http://nghialele.micro.blog/2023/06/02/hello-micro.html",
+				
+				"content_html": "<p>🇻🇳 hello micro</p>\n",
+				"content_text": "🇻🇳 hello micro\n",
+				"date_published": "2023-06-02T19:33:42+07:00",
+				"url": "https://micro.nghialele.com/2023/06/02/hello-micro.html"
+			}
+	]
+}
